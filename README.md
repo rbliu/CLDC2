@@ -1,10 +1,8 @@
 # Plotting Shear Distribution of Background Galaxies in DC2 Run 1.1p extra-galactic catalog (protoDC2)
 
-In this example script we show how to select background galaxies distorted by the foreground host halo, and calculate their shear distributions.
+In this Hack Day project, we are aiming to plot shear distribution of background galaxies which are distorted by the corresponding host halos. We hope that it can help us to find the more massive halos.
 
 Participants: **Ian Dell'Antonio**, **Robert Liu**, **Shenming Fu**
-
-Last verified run: **7-26-18**
 
 This notebook demonstrates how to access the extra galactic catalog through the Generic Catalog Reader (GCR, https://github.com/yymao/generic-catalog-reader) as well as how filter on galaxy features and cluster membership.
 
